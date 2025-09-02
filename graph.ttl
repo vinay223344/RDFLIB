@@ -1,0 +1,9 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:Pradeep ns1:Works_at ns1:Facebook .
+
+ns1:kumar ns1:Launched ns1:Insta ;
+    ns1:Works_at ns1:Twitter .
+
+ns1:Facebook ns1:Launched_in "1990" .
+
